@@ -1,0 +1,13 @@
+body {
+    background-image: url("imagen/fondo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button-container {
+    display: inline-block;
+  }
+  
+.button-container button {
+    margin-right: 10px;
+  }
